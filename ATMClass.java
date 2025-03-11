@@ -1,4 +1,4 @@
-package com.shivam.BankApplicationUsingExaception_22_Jan_25;
+package com.sarat.BankApplicationUsingExaception_22_Jan_25;
 
 import java.util.Scanner;
 
